@@ -1,2 +1,2 @@
 # chess
-Simple Chess game
+Basic local Chess game
